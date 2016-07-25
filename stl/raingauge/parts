@@ -1,0 +1,4 @@
+Likely uses the same Hall effect circuit as the anemometer. This would require me to design the holder for the PCB (easy) and to figure out how to mount a simple permanent magnet.
+
+Each time the water catcher tilts over, an average volume of water is dumped
+out and this can be recorded. This will let me keep track of rainfall.

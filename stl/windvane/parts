@@ -1,0 +1,7 @@
+Continuous Potentiometer:
+Bourns Inc. 6639S-1-103
+datasheet: http://www.bourns.com/docs/Product-Datasheets/6539.pdf
+
+Basically, the microcontroller will sample the impedance of the potentiometer,
+which spins freely around.
+The values need to be calibrated in the main code so that the wind direction can be determined.

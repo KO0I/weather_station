@@ -1,0 +1,24 @@
+A collection of weather-station stls that I want to put together as part of an
+amateur weather station.
+
+Objectives:
+- wireless
+- lightweight
+- waterproof
+- winterproof?
+- easy to replicate
+
+To be controlled by an ESP8266 or other microcontroller.
+
+Currently intended to track:
+Wind speed      (simple pulses)
+Rainfall        (simple pulses)
+Wind direction  (potentiometer)
+Temperature     (SHT15 w/ quasi-I2C)
+Humidity        (SHT15 w/ quasi-I2C)
+
+Interested in adding in:
+
+Lightning detection (antenna and circuit)
+Sunlight exposure sensors (measure power from a few small solar panel nodes?)
+RTLSDR housing+weatherproofing

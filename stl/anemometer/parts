@@ -1,0 +1,14 @@
+Bearings type: two of unknown size
+Main shaft:    unknown threaded rod length
+               needs 4-6 nuts of the same type
+
+US1881 Hall Effect sensor
+10kOhm Resistor
+Capacitor (value unknown)
+
+circuit diagram in circuit.png. Cap likely is between 5V and ground to clean
+things up
+
+Hall latches when exposed to a changing magnetic field. I'm not sure how
+sensitive the sensor is; the rod probably needs to be magnetized for the
+sensor to work. It is also possible the rod needs to be modified to work.
